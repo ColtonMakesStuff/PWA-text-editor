@@ -34,9 +34,9 @@ export const getDb = async () => {
     const tx = jateDB.transaction('jate', 'readonly');
     const store = tx.objectStore('jate');
     const request = store.getAll();
-    const content = await request;
-    console.log('result.value', content);
-    return content;
+    const data= await request;
+    console.log('result.value', data);
+    return data.content
   } catch (error) {
     console.error('Error retrieving content from the database:', error);
   }
