@@ -1,4 +1,4 @@
-# Simply Just Another Text Editor
+# Just Another Text Editor
 
 This is a simple text editor that you can use offline, and it's also a Progressive Web App (PWA) that you can install on your device, it uses IndexedDB to keep your text safe and sound, even if your internet connection goes down
 
