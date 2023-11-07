@@ -56,6 +56,9 @@ THEN I should have proper build scripts for a webpack application
 - Donnie Rowlings - https://github.com/drawlin22 - starting code and general setup
 - Kyle Jocoy - https://github.com/Kylyote - starting code and general setup
 
+## ScreenShot:
+   <img src="./client/src/images/Screenshot.png" alt="Screenshot of the text editor">
+
 
 ## Links:
 
